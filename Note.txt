@@ -1,0 +1,7 @@
+@ IP FIXI POUR POSTE 10.8.CC.71
+CC : CODE COMMUNE
+
+MODIFICATION FICHIER HOST
+192.168.170.5  auth-doc.dzds.dz
+
+URL : auth-doc.dzds.dz
